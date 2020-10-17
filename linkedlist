@@ -1,0 +1,18 @@
+addFirst
+addLast
+add(ele)
+add(int index,obj)
+removeFirst
+removeLast
+remove(index)
+remove(ele)
+set(index,ele)
+getFirst
+getLast
+get(ind)
+
+
+
+
+contains(obj)
+indexOf(obj)
